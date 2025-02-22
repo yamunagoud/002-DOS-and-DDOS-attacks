@@ -1,9 +1,9 @@
 DNS Amplification Practical Scenario:
-Identify Open DNS Resolvers
-Craft DNS Queries
-Send Spoofed DNS Queries
-
+1.Identify Open DNS Resolvers
+2.Craft DNS Queries
+3.Send Spoofed DNS Queries
+================================================================================
 for SYN Flood and http flood we also have tools like hping3 to flood the traget
-
+================================================================================
 
 
