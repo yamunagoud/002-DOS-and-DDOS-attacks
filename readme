@@ -3,5 +3,7 @@ Identify Open DNS Resolvers
 Craft DNS Queries
 Send Spoofed DNS Queries
 
+for SYN Flood and http flood we also have tools like hping3 to flood the traget
+
 
 
